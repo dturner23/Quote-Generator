@@ -1,4 +1,6 @@
-# Quote-Generator Project using Andrei Neagoie's Udemy Course - JavaScript Web Projects: 20 Projects to Build Your Portfolio
+# Quote-Generator Project
+
+Quote-Generator Project using Andrei Neagoie's Udemy Course - JavaScript Web Projects: 20 Projects to Build Your Portfolio
 
 Twitter Button triggers a new Tweet using the quote text and quote author in your Twitter handle.
 
